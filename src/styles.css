@@ -19,3 +19,9 @@
     content: '';
     display: table;
   }
+
+
+  .game {
+    display: flex;
+    flex-direction: row;
+  }
